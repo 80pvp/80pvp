@@ -1,4 +1,6 @@
-### Hi there 👋
+### This plugin is very simple, all it does is when you type /kit pvp, it gives you 1 iron sword, 1 golden apple, 10 steak, iron armor, 1 bow, 64 arrows. 
+### This plugin, mc server, and account is made by gamerboy80.
+### Works on all servers 1.8.9, exclusivly on play.80pvp.net
 
 <!--
 **80pvp/80pvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
